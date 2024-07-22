@@ -1,0 +1,294 @@
+fileFormatVersion: 2
+guid: fdb74b193299a884a80c73ebafe4d5be
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Katana_Sword_BaseColor
+    second: {fileID: 2800000, guid: 6b96f9ea8ba274b43b4c4b8b9fbe57fb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Katana_Sword_Metallic
+    second: {fileID: 2800000, guid: a25f48901f1ba154cb15a5461775eba3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Katana_Sword_Normal_OpenGL
+    second: {fileID: 2800000, guid: 4e74d351b9074d249942f1f324d9a83d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Katana_Sword_Opacity
+    second: {fileID: 2800000, guid: 8fc1d68ecee5e894b86632e27f0bec62, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Katana_Sword_Roughness
+    second: {fileID: 2800000, guid: 190d47bbc8ed8234cb5bcd397fef906e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material_Alpha
+    second: {fileID: 2800000, guid: d4e18758283342c4b92b5c0051037eb5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material_BaseColor
+    second: {fileID: 2800000, guid: 4acfc31abe1af07439beacd9eb4563a7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material_Emission
+    second: {fileID: 2800000, guid: ef86409a8e55696409fe594bc1feefc9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material_Metallic
+    second: {fileID: 2800000, guid: 7823d4e4b0d4a7f4fb079f70f0f33d86, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material_Normal
+    second: {fileID: 2800000, guid: 56779a8f07bb27342b123ea5e33fdad2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material_Roughness
+    second: {fileID: 2800000, guid: 1253e65634e48f6439bb9cb5ca237881, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_WalnutVeneerTexture_M
+    second: {fileID: 2800000, guid: 252aef0e9c2182f4ea6c9a9b1d342c01, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "kap\u0131_Alpha"
+    second: {fileID: 2800000, guid: a01191a226664a84a8737384ab05bdb7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "kap\u0131_BaseColor"
+    second: {fileID: 2800000, guid: b0d2fd334f5f42947bc219dfdb102604, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "kap\u0131_Emission"
+    second: {fileID: 2800000, guid: 2dc957d6eea64684e94ec33a0021d25f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "kap\u0131_Metallic"
+    second: {fileID: 2800000, guid: ba560f4eeb156fc4db7f42422d0bc2ff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "kap\u0131_Normal"
+    second: {fileID: 2800000, guid: 337d2648d7ba9884dbc7c2a274c1e473, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "kap\u0131_Roughness"
+    second: {fileID: 2800000, guid: 24262a5cdb00cc14e97baf24258a8a0c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lamba_Alpha
+    second: {fileID: 2800000, guid: 6b224d38ef96b49428992195875dc2ab, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lamba_BaseColor
+    second: {fileID: 2800000, guid: 6ab6fdd8d850f8c4e946ff3553129c70, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lamba_Emission
+    second: {fileID: 2800000, guid: 68c7ef51866be3347bb1f443e1ab6981, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lamba_Metallic
+    second: {fileID: 2800000, guid: 8bcccf4b44231e14688b7c54164efb73, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lamba_Normal
+    second: {fileID: 2800000, guid: ac2d70618c6ff5c4e8c9606d2d7776cd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lamba_Roughness
+    second: {fileID: 2800000, guid: a4bac1794bc430d46896cc5e9f2d3297, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: oda_Alpha
+    second: {fileID: 2800000, guid: 7d364d5d853ba5f40a6147902f842258, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: oda_BaseColor
+    second: {fileID: 2800000, guid: bbd5cdbe5a217774abdc1da28ccc478c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: oda_Emission
+    second: {fileID: 2800000, guid: 9869f0c655a368e4c8067f4ac2e09143, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: oda_Metallic
+    second: {fileID: 2800000, guid: 9d073825d2a8ba84cad47ae75d62d0d5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: oda_Normal
+    second: {fileID: 2800000, guid: 159bfdb9816f1c24cb92cfd8af888871, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: oda_Roughness
+    second: {fileID: 2800000, guid: f001510f2a809fd4c8de118e2ed9b1af, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: vazo_Alpha
+    second: {fileID: 2800000, guid: 96fa4a17852a1294bbe3d7e25a6270bc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: vazo_BaseColor
+    second: {fileID: 2800000, guid: 98d3ab62dab6fc940a8586b68cf0a22e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: vazo_Emission
+    second: {fileID: 2800000, guid: 6f669e4305720d346829c7d5cc5872ff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: vazo_Metallic
+    second: {fileID: 2800000, guid: d25b54e8eb321d74496f472dc33134af, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: vazo_Normal
+    second: {fileID: 2800000, guid: 2dd07df9292272841bd65ce9dd333f77, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: vazo_Roughness
+    second: {fileID: 2800000, guid: ecb9b0c34c5f5434eb5a363c2f0479e1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wdasd
+    second: {fileID: 2800000, guid: b5a59c764a1722d4e962a87b4e06b67e, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

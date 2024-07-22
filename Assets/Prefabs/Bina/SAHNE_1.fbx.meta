@@ -1,0 +1,324 @@
+fileFormatVersion: 2
+guid: ae7e955dc132e884a831a6e02e1697af
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WallLarge_diffuse
+    second: {fileID: 2800000, guid: 530a67163ebbd52479a469fa5c20cd95, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WallLarge_diffuse_RightSide
+    second: {fileID: 2800000, guid: 2cf9cd903c0158941b08008c5db1db11, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WallLarge_translucency
+    second: {fileID: 2800000, guid: b52f4d0a7d7670046a61fcabc4264b3d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bambooBranches_basecolor.tga
+    second: {fileID: 2800000, guid: 399a6717c81eee045b70a4489caa1685, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bambooBranches_normal.tga
+    second: {fileID: 2800000, guid: 328ada1632b94b947966d057aab9adde, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bambooBranches_roughness.tga
+    second: {fileID: 2800000, guid: 245b21ad3d8e57842b710a8d89eae994, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bamboo_basecolor.tga
+    second: {fileID: 2800000, guid: 2d9c47ee12df4324c9b72c3dd8c1bdd3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bamboo_normal.tga
+    second: {fileID: 2800000, guid: 0e648cc853d944443bd83369c5e00620, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bamboo_roughness.tga
+    second: {fileID: 2800000, guid: 31ac96b342a4cfc42bc5e20cd9f64a85, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bambooalpha_basecolor.tga
+    second: {fileID: 2800000, guid: 5610c08943d329d45913ff21df34dec5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bambooalpha_normal.tga
+    second: {fileID: 2800000, guid: 48d8e5ce5d05a1e4095bb8e4171a37c5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bambooalpha_opacity.tga
+    second: {fileID: 2800000, guid: 8d2d6bcbfe2136d4892cd2365421d3d7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bambooalpha_roughness.tga
+    second: {fileID: 2800000, guid: ae2b4b0e5b669a14c8a231b56b1f3eb6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "kap\u0131_Alpha"
+    second: {fileID: 2800000, guid: 591a83e134ab33a4099dd0b61346a49d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "kap\u0131_BaseColor"
+    second: {fileID: 2800000, guid: 6bfcbc157d531214c85069d26d196a60, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "kap\u0131_Emission"
+    second: {fileID: 2800000, guid: ba5d32d411fd16c4a8ade995ed89b509, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "kap\u0131_Metallic"
+    second: {fileID: 2800000, guid: 4fb02746cfd694846b95a9bafaeaf086, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "kap\u0131_Normal"
+    second: {fileID: 2800000, guid: 9af4dcb390a53aa4fa393dff9b7aa883, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "kap\u0131_Roughness"
+    second: {fileID: 2800000, guid: 86cb3ff0f84970f4ab86ebd684d27f1e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lamba_Alpha
+    second: {fileID: 2800000, guid: 719a20c3a67c6414fa797669b4cf9b25, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lamba_BaseColor
+    second: {fileID: 2800000, guid: 6de26181e01bc8842852bedb09242c0a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lamba_Emission
+    second: {fileID: 2800000, guid: b8e982dc5a6a61e4a9862ad60265e887, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lamba_Metallic
+    second: {fileID: 2800000, guid: 6c966b493a77f2a4586e53b3afec9a98, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lamba_Normal
+    second: {fileID: 2800000, guid: 70a1b772ba9c0a04294bace3ce46c290, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lamba_Roughness
+    second: {fileID: 2800000, guid: 38c9401a83408fd49b95dd49fed0e6e6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: oda_Alpha
+    second: {fileID: 2800000, guid: ecf84ebd805722144be71e707040daa5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: oda_BaseColor
+    second: {fileID: 2800000, guid: 9f97bcede8c0fef42ba3fecc3542a539, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: oda_Emission
+    second: {fileID: 2800000, guid: 67853f50f80ad524d8220b661ec2dd22, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: oda_Metallic
+    second: {fileID: 2800000, guid: 016e95c56d250e3418066e3f251fb105, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: oda_Normal
+    second: {fileID: 2800000, guid: 80a52b3875b3e2549b8bee7da7538189, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: oda_Roughness
+    second: {fileID: 2800000, guid: a99f8172837a99843a59636ded7cfe79, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "ta\u015Flar_Alpha"
+    second: {fileID: 2800000, guid: b4ff908eaeabf884e8078c3480792092, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "ta\u015Flar_BaseColor"
+    second: {fileID: 2800000, guid: 2c7a9852b767c9442ae0bbe46e1a2880, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "ta\u015Flar_Emission"
+    second: {fileID: 2800000, guid: 482d0cdb3c136994a80c8a05fd9f91e2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "ta\u015Flar_Metallic"
+    second: {fileID: 2800000, guid: ccd7e41664e882546aa81429251436bd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "ta\u015Flar_Normal"
+    second: {fileID: 2800000, guid: 2a63a561ffc94af48920557cbfe25d90, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "ta\u015Flar_Roughness"
+    second: {fileID: 2800000, guid: 11d7d3d01b048144586220b501ffc780, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: vazo_Alpha
+    second: {fileID: 2800000, guid: 31912f390fe25e14b866bf895d87a7cb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: vazo_BaseColor
+    second: {fileID: 2800000, guid: e8890e78e1a2f7543ab9ce21a81e372e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: vazo_Emission
+    second: {fileID: 2800000, guid: 36db5bea3b14c2e42afa103087c7d7ed, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: vazo_Metallic
+    second: {fileID: 2800000, guid: ebb2c50bfaeb8ff469fcf0b427829b24, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: vazo_Normal
+    second: {fileID: 2800000, guid: 07c609954a1dc9c4c857b091c4e1e70d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: vazo_Roughness
+    second: {fileID: 2800000, guid: 0a73f537a1a89e847a6b994eeee33086, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,294 @@
+fileFormatVersion: 2
+guid: 40d396cd4f344934a9c0839c60e03cfc
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wooden_Barrel_DefaultMaterial_BaseColor
+    second: {fileID: 2800000, guid: 3ca2627300b1c4845925a433e48466dc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wooden_Barrel_DefaultMaterial_Normal
+    second: {fileID: 2800000, guid: 18a7ce1d95f2ff14f9dd2b9aee3e64db, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wooden_Barrel_DefaultMaterial_Roughness
+    second: {fileID: 2800000, guid: b14185d754b3dc44b91c2c3391bc6fdc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bamboo_base2
+    second: {fileID: 2800000, guid: b2132c3e3d7088a41a9cf5ed423b7b6d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bamboo_roughness
+    second: {fileID: 2800000, guid: 1f41af2609b9fd641a2bcc38787814d5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: box_of_fish_Base_Color
+    second: {fileID: 2800000, guid: fd411e7d787ad274c8c169b068533008, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: box_of_fish_Metallic
+    second: {fileID: 2800000, guid: 48b9fbd72c7cff24285c85eb12e11e4c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: box_of_fish_Normal_OpenGL
+    second: {fileID: 2800000, guid: 95fffd9f9628c50418f109743379a92c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: box_of_fish_Opacity
+    second: {fileID: 2800000, guid: 57091b8821fcab9428ce53262742464e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: box_of_fish_Roughness
+    second: {fileID: 2800000, guid: 1c74c0b033d95774099b765e910e4fde, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: brass texture
+    second: {fileID: 2800000, guid: 6e7ea449aadd8f1409a83a277308998c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "kap\u0131_Alpha"
+    second: {fileID: 2800000, guid: 864f55d12fca28c46be8b5404a55efce, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "kap\u0131_BaseColor"
+    second: {fileID: 2800000, guid: 28cfec9dad5854f49b9598c60318bd3b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "kap\u0131_Emission"
+    second: {fileID: 2800000, guid: 6a7835ae24ce0d04299e21610b5b1674, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "kap\u0131_Metallic"
+    second: {fileID: 2800000, guid: 171e50a0112811149a939b6ecc937d56, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "kap\u0131_Normal"
+    second: {fileID: 2800000, guid: 529696937be1fa84193f9d26b7e15666, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "kap\u0131_Roughness"
+    second: {fileID: 2800000, guid: d94b27459a1f4b344b347d8b987ae636, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lamba_Alpha
+    second: {fileID: 2800000, guid: 1370964354c4bd94fb1b39b1e968608a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lamba_BaseColor
+    second: {fileID: 2800000, guid: 681877e6497cd984badc058a2178f39a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lamba_Emission
+    second: {fileID: 2800000, guid: 4b8bb6140623a68449f5c8389af4af5b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lamba_Metallic
+    second: {fileID: 2800000, guid: 06d5e57270cea904689ffce54a052842, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lamba_Normal
+    second: {fileID: 2800000, guid: 9aa92bf1e82a23f45a3394272480ce2e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lamba_Roughness
+    second: {fileID: 2800000, guid: 334a3e568c15c5d48a3f9ead359be3d4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: metal texture
+    second: {fileID: 2800000, guid: bb314687104d1ca478979e65f0d02eed, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: oda_Alpha
+    second: {fileID: 2800000, guid: be9de52d6be426740b98ef15673db3a0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: oda_BaseColor
+    second: {fileID: 2800000, guid: 69ba7ba92a1e4d442bbb13ea43b3bc11, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: oda_Emission
+    second: {fileID: 2800000, guid: 85826e4b63205a849b410b94a964a8eb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: oda_Metallic
+    second: {fileID: 2800000, guid: d1fad05743fa96d49a60912e4649f117, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: oda_Normal
+    second: {fileID: 2800000, guid: 41355824547338f4ea362e0571e24060, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: oda_Roughness
+    second: {fileID: 2800000, guid: 1f0ca27feb6ada141be3f0c4e97b0482, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stand_Alpha
+    second: {fileID: 2800000, guid: 70403d7f358d8aa468061eb7b9fb70b5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stand_BaseColor
+    second: {fileID: 2800000, guid: 50e66ba474d527248bb1b1e96c83f402, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stand_Emission
+    second: {fileID: 2800000, guid: 95c7af538d874ff44bba801258455917, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stand_Metallic
+    second: {fileID: 2800000, guid: 51543ee6442593f4bb28a40ccc95dcc9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stand_Normal
+    second: {fileID: 2800000, guid: 76feb6ec07896b64f9ec383119cddffd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stand_Roughness
+    second: {fileID: 2800000, guid: 2382d011356297b4a972f9abdbdb64f8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wrap texture
+    second: {fileID: 2800000, guid: a6d6b15171b874a47a5d882d82532267, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
